@@ -3,5 +3,5 @@
 
 ## 相关索引
 - [自定义圆环控件](http://www.jianshu.com/p/75f7cc577e8a)-> SFCircularSlider
-- [慎用 reloadRowsAtIndexPaths]() -> UITableViewBug
+- [慎用 reloadRowsAtIndexPaths](http://www.jianshu.com/p/cef6e52d2fa1) -> UITableViewBug
 
